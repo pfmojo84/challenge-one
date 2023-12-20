@@ -93,7 +93,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h2, .benefit-brand h2, .benefit-cost h2 {
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
